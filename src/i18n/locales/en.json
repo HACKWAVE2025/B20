@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "about": "About",
+    "login": "Login",
+    "signup": "Get Started",
+    "dashboard": "Dashboard"
+  },
+  "hero": {
+    "title": "Your Smart Farming Companion",
+    "subtitle": "AI-powered insights to optimize your crop yield, monitor soil health, and receive real-time alerts",
+    "cta": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "features": {
+    "title": "Powerful Features for Modern Farming",
+    "cropPrediction": "AI Crop Prediction",
+    "cropPredictionDesc": "Predict yield and optimize crop planning with AI",
+    "fertilizer": "Fertilizer Optimization",
+    "fertilizerDesc": "Get personalized fertilizer recommendations",
+    "realtime": "Real-Time Alerts",
+    "realtimeDesc": "Weather, pest, and animal detection alerts",
+    "voice": "AI Voice Assistant",
+    "voiceDesc": "Chat or speak with AgriVani in your language"
+  },
+  "auth": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "name": "Full Name",
+    "phone": "Phone Number",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "loginButton": "Login",
+    "signupButton": "Sign Up"
+  },
+  "dashboard": {
+    "welcome": "Welcome",
+    "cropHealth": "Crop Health",
+    "predictions": "Predictions",
+    "alerts": "Alerts",
+    "assistant": "AI Assistant",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout",
+    "weather": "Weather",
+    "soil": "Soil Health",
+    "yield": "Yield Prediction",
+    "fertilizer": "Fertilizer Plan"
+  },
+  "cropPrediction": {
+    "title": "Crop Yield Prediction",
+    "soilType": "Soil Type",
+    "ph": "pH Level",
+    "nitrogen": "Nitrogen (N)",
+    "phosphorus": "Phosphorus (P)",
+    "potassium": "Potassium (K)",
+    "cropType": "Crop Type",
+    "location": "Location",
+    "previousYield": "Previous Yield (kg/ha)",
+    "predict": "Predict Yield",
+    "result": "Prediction Result"
+  },
+  "chat": {
+    "title": "AgriVani Assistant",
+    "placeholder": "Ask me anything about farming...",
+    "send": "Send",
+    "voice": "Voice Input",
+    "examples": "Example questions:",
+    "weather": "What is today's weather?",
+    "fertilizer": "How much fertilizer do I need?",
+    "rain": "Is rain expected tomorrow?"
+  },
+  "alerts": {
+    "title": "Real-Time Alerts",
+    "noAlerts": "No alerts at the moment",
+    "weather": "Weather Alert",
+    "pest": "Pest Alert",
+    "animal": "Animal Detection"
+  },
+  "footer": {
+    "contact": "Contact Us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
